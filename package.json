@@ -1,0 +1,14 @@
+{
+  "name": "boca-s4ris",
+  "version": "1.0.0",
+  "description": "Boca - S4RiS-StanD parser",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Montero <rjtm1992@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  }
+}
