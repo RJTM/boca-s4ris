@@ -11,7 +11,7 @@ Utility to use the [BOCA Online Contest Administrator](https://www.ime.usp.br/~c
 ## Usage
 
 ```
-node parser.js inputFile.html > output.json
+node parse.js inputFile.html > output.json
 ```
 
 ## License
